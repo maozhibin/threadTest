@@ -1,6 +1,6 @@
 package test2;
 
-public class test {
+public class tests {
 	public static void main(String[] args) {
 		Fork fork = new Fork();
 		new Philosopher("0", fork).start();
